@@ -1,3 +1,3 @@
 # Lab 2 - Starter
 
-https://haykthekhulyan.github.io/Lab2_Starter/
+haykthekhulyan.github.io/fa22-cse110-lab3
