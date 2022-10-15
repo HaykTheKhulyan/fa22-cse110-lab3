@@ -1,0 +1,12 @@
+/*
+Sets the font for the whole page
+*/
+@font-face {
+    font-family: "Roboto Condensed";
+    src: url("./res/fonts/RobotoCondensed-Regular.ttf");
+}
+
+* {
+    color: navy;
+    font-family: "Roboto Condensed";
+}
