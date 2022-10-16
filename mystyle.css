@@ -10,3 +10,15 @@ Sets the font for the whole page
     color: navy;
     font-family: "Roboto Condensed";
 }
+
+h1 {
+    color: rgb(172, 27, 27);
+}
+
+h2 {
+    color: #32a85a;
+}
+
+b {
+    background-color: hsl(33, 100%, 50%);
+}
