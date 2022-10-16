@@ -2,17 +2,17 @@
 
 ## Name
 
-    ### Work completed:
-        - one
-        - two
-        - three
+### Work completed:
+    - one
+    - two
+    - three
 
-    ### Planned work:
-        - one
-        - two
-        - three
+### Planned work:
+    - one
+    - two
+    - three
 
-    ### Potential roadblocks:
-        1. one
-        2. two
-        3. three
+### Potential roadblocks:
+    1. one
+    2. two
+    3. three
