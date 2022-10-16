@@ -15,17 +15,23 @@ header {
     position: fixed;
     background-color: black;
     color: white;
+    height: 2em;
+    width: 5in;
+    max-width: 20cm;
+    max-height: 3ch;
 }
 
 h1 {
     color: rgb(172, 27, 27);
     text-align: center;
     position: absolute;
+
 }
 
 h2 {
     color: #32a85a;
     text-decoration: line-through;
+    width: 1vw;
 }
 
 b {
