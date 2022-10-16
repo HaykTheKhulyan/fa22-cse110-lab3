@@ -13,10 +13,12 @@ Sets the font for the whole page
 
 h1 {
     color: rgb(172, 27, 27);
+    text-align: center;
 }
 
 h2 {
     color: #32a85a;
+    text-decoration: line-through;
 }
 
 b {
